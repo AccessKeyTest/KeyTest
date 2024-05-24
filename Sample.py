@@ -2,8 +2,8 @@ import requests
 
 # Replace these with your SSO provider's specific URLs and credentials
 sso_login_url = 'https://756359609882.signin.aws.amazon.com/console'
-client_id = 'AKIA3AGULXYNKPA3BR6V'
-client_secret = '8INIn2KhnJ7TJNV7aRDSL5a4l7KaiDTze/AqyCTR'
+client_id = 'AKIA5XWQUURTP2LUDBZW'
+client_secret = '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'
 grant_type = 'client_credentials'
 
 def get_access_token():
